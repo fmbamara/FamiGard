@@ -1,0 +1,8 @@
+{
+  "name": "FamiGuard",
+  "description": "A web application for family safety, providing simulated location sharing, SOS alerts, and AI-powered safety tips to keep your loved ones safe.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
